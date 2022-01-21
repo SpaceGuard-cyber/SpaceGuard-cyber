@@ -10,3 +10,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
+## Follow Me
+
+[![vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/spaceguardinc)
+[![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](spaceguardinc)
+[![instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/spaceguard.inc/)
+[![twitch](https://img.shields.io/badge/-CodingStreams-090909?style=for-the-badge&logo=Twitch)](https://www.twitch.tv/spaceguardentertainment)
